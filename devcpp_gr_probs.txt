@@ -1,0 +1,33 @@
+// Not enough space
+
+26019
+27008
+27046
+38040
+39005
+55028
+63012
+63014
+63015
+72014
+72015
+72016
+72017
+74001
+74002
+74003
+74003
+74005
+
+// Without translatable strings
+
+in Dialod: Project->Project Options [ Build Options ]
+	"&Compiler log autosave"
+	"Override output filename"
+
+in Dialog: Tools->Editor Options [ General ]
+	Group Title: "Tabs"
+
+in Dialog: Tools->Editor Options [ Class Browsing ]
+	in Group: View Options
+		"Show inherited members" (the string #12015 does not seem to apply here)
